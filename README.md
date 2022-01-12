@@ -10,3 +10,7 @@ Hong Kong. For the separate html-files per year, go to https://www.chp.gov.hk/en
 Confirmed cases of a number of infectious diseases in Hong Kong from January 1997 to November 2021. Official data from 
 the Centre for Health Protection of the Department of Health of the government of Hong Kong. For the separate csv-files per year,
 go to https://www.chp.gov.hk/en/static/24012.html.
+
+(3) hk_weather_events_1997_2021.csv
+csv-file for the number of specific meteorological events in Hong Kong from January 1997 to December 2021. Official data
+from the Hong Kong Oberservatory (https://www.hko.gov.hk/en/index.html). For separate html-files per year, go to the website.
