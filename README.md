@@ -14,3 +14,8 @@ go to https://www.chp.gov.hk/en/static/24012.html.
 (3) hk_weather_events_1997_2021.csv
 csv-file for the number of specific meteorological events in Hong Kong from January 1997 to December 2021. Official data
 from the Hong Kong Oberservatory (https://www.hko.gov.hk/en/index.html). For separate html-files per year, go to the website.
+
+(4) hk_smoking_1982_2019.csv
+csv-file for the smoking patterns of people in Hong Kong from 1982 to 2019, from the Thematic Household Survey (Pattern of Smoking)
+(formerly known as General Household Survey) by the Hong Kong Census & Statistics Department. The data can be found as html-files for
+different variables and years on https://www.taco.gov.hk/t/english/infostation/infostation_sta_01.html#a1.
